@@ -1,6 +1,7 @@
 main {
   padding-top: 80px;
-  background-color: hsl(0, 0%, 98%);
+  height: 100%;
+  width: 100%;
   position: relative;
   z-index: -1;
 }
@@ -10,6 +11,7 @@ body {
   width: 100%;
   margin: 0;
   position: relative;
+  background-color: hsl(0, 0%, 98%);
   z-index: -2;
 }
 
